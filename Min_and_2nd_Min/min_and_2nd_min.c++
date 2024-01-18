@@ -6,7 +6,7 @@ int main() {
     // int arr [] = {2};
     // int arr [] = {2, 4, 3, 5, 6};
     // int arr [] = {1, 2, 1, 3, 6, 7};
-    int arr [] = {1, 1, 1, 1, 1};
+    int arr [] = {1, 1, 1, 1, 1                                                    };
     // int arr [] = {8, 11, 5, 9, 15, 2, 12, 7};
     int first = INT_MAX;
     int second = INT_MAX;
