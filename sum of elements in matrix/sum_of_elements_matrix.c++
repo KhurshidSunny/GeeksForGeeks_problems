@@ -3,6 +3,8 @@
 using namespace std;
 
 int  main() {
+
+
     int matrix [3][5] = {
         {1,0,1,0,1},
         {0,1,0,1,0},
