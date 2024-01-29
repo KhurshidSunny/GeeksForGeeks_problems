@@ -3,13 +3,7 @@
 using namespace std;
 
 int main() {
-     /*
-        4 1
-        1
-        2
-        3
-        4
-    */
+
     int arr [5][3] = {
         // {4, 1},
         // {1},
